@@ -8,3 +8,9 @@
 ```
 npm install
 ```
+
+## Contributions
+
+Contributions are always welcome!
+
+Please fork this repository and start contributing !
